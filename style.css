@@ -1,0 +1,49 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 16px;
+    color: black;
+}
+
+.speed_div{
+    float: left;
+}
+
+.speed_div_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.vol_div{
+    float: right;
+}
+
+.vol_div_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#volume{
+    font-size: 23px;
+    margin: 15px;
+}
+
+canvas{
+background-color: #000000;
+border: 5px solid white;
+border-radius: 20px;
+box-shadow: 5px 5px 5px chartreuse;
+}
